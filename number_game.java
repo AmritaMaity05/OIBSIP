@@ -1,5 +1,4 @@
-// Number Game Project OR Task -1
-//package Internship_CodeSoft;
+
 import java.util.Scanner;
 class game
 {

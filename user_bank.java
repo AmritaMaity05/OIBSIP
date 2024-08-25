@@ -1,6 +1,4 @@
 
-// Task 3 ATM Machine
-//package Internship_CodeSoft;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

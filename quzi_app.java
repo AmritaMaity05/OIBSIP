@@ -1,5 +1,4 @@
-// Task 4
-//package Internship_CodeSoft;
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
